@@ -1,0 +1,61 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: magdalena-docs
+  namespace: docs          # change to your target namespace
+  labels:
+    app: magdalena-docs
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: magdalena-docs
+  template:
+    metadata:
+      labels:
+        app: magdalena-docs
+    spec:
+      containers:
+        - name: docs
+          image: your-registry/magdalena-docs:latest   # update with your registry/image
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 80
+          resources:
+            requests:
+              cpu: "50m"
+              memory: "64Mi"
+            limits:
+              cpu: "200m"
+              memory: "128Mi"
+          readinessProbe:
+            httpGet:
+              path: /
+              port: 80
+            initialDelaySeconds: 5
+            periodSeconds: 10
+          livenessProbe:
+            httpGet:
+              path: /
+              port: 80
+            initialDelaySeconds: 10
+            periodSeconds: 30
+      # If your registry is private, add imagePullSecrets:
+      # imagePullSecrets:
+      #   - name: registry-credentials
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: magdalena-docs
+  namespace: docs          # must match Deployment namespace
+  labels:
+    app: magdalena-docs
+spec:
+  selector:
+    app: magdalena-docs
+  ports:
+    - name: http
+      port: 80
+      targetPort: 80
+  type: ClusterIP

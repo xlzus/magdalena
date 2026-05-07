@@ -1,0 +1,29 @@
+# Cloudflare Tunnel is managed externally via the cloudflare CLI.
+# TLS is terminated at Cloudflare's edge — no TLS secret needed here.
+# The tunnel points to this cluster's NGINX Ingress; traffic arrives as plain HTTP.
+#
+# After applying, run:
+#   cloudflared tunnel route dns <tunnel-name> docs.yourdomain.com
+# and set the tunnel backend URL to http://<ingress-controller-external-ip>
+# (or the ingress hostname if using a DNS-based backend).
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: magdalena-docs
+  namespace: docs          # must match Deployment namespace
+  annotations:
+    nginx.ingress.kubernetes.io/ssl-redirect: "false"
+    nginx.ingress.kubernetes.io/proxy-body-size: "10m"
+spec:
+  ingressClassName: nginx
+  rules:
+    - host: docs.yourdomain.com  # replace with your actual domain
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: magdalena-docs
+                port:
+                  number: 80
