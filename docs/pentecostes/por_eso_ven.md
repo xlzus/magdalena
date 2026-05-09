@@ -3,37 +3,65 @@
 # Por eso ven
 
 ```bash
+C.      F.       C
 Ven Espíritu de Dios
+Am.     F        C G
 Dulce soplo de amor
+F.               G
 que tu fuego hoy transforme
+ Em.           Am
 todo en mi interior
+Dm.       G.      C  G C
 ven Espíritu de Dios
 
+C.      F.       C
 Ven Espíritu de Dios
+Am.     F        C G
 Dulce soplo de amor
+F
 manantial de agua
-enmedio de mi desierto
+    G.       Em.    Am
+en medio de mi desierto
+Dm.      G.       C
 ven Espíritu de Dios
 
+        Am.      F.       C G
 Por eso ven Espíritu de Dios
+ Am.      F.      C. G
 Dulce soplo de amor
+Am.      F     C.         G
 Cambia, Sana, Aviva de nuevo
+    Dm. G.  C
 a este corazón
 
+
+C.      F.       C
 Ven Espíritu de Dios
+Am.     F        C G
 Dulce soplo de amor
+F
 manantial de agua
-enmedio de mi desierto
+    G.       Em.    Am
+en medio de mi desierto
+Dm.      G.       C
 ven Espíritu de Dios
 
+        Am.      F.       C G
 Por eso ven Espíritu de Dios
+ Am.      F.      C. G
 Dulce soplo de amor
+Am.      F     C.         G
 Cambia, Sana, Aviva de nuevo
+    Dm. G.  C
 a este corazón
 
+        Am.      F.       C G
 Por eso ven Espíritu de Dios
+ Am.      F.      C. G
 Dulce soplo de amor
+Am.      F     C.         G
 Cambia, Sana, Aviva de nuevo
+    Dm. G.  C
 a este corazón
 
 

@@ -6,13 +6,19 @@
 
 ## Esquema
 
-| Momento                    | Canto                                               |
-| -------------------------- | --------------------------------------------------- |
-| :musical_note: **Entrada** | [Piedras Vivas](pentecostes/piedras_vivas.md)       |
-| :droplet: **Aspersión**    | [Esta es el agua](pentecostes/esta_es_el_agua.md)   |
-| :pray: **Oración**         | [María](pentecostes/maria.md)                       |
-| :fire: **Oración**         | [Por eso ven](pentecostes/por_eso_ven.md)           |
-| :crown: **Salida**         | [En torno a María](pentecostes/en_torno_a_maria.md) |
+| Momento                    | Canto                                                   |
+| -------------------------- | ------------------------------------------------------- |
+| :musical_note: **Entrada** | [Piedras Vivas](pentecostes/piedras_vivas.md)           |
+| :droplet: **Aspersión**    | [Esta es el agua](pentecostes/esta_es_el_agua.md)       |
+| :raised_hands: **Aleluya** | [Aleluya](pentecostes/aleluya.md)                       |
+| :wine_glass: **Ofertorio** | [En torno a tu mesa](pentecostes/en_torno_a_tu_mesa.md) |
+| :pray: **Oración**         | [María](pentecostes/maria.md)                           |
+| :fire: **Oración**         | [Por eso ven](pentecostes/por_eso_ven.md)               |
+| :latin_cross: **Santo**    | [santo](pentecostes/santo.md)                           |
+| :latin_cross: **Santo 2**  | [santo](pentecostes/santo_1.md)                         |
+| :sheep: **Cordero**        | [cordero](pentecostes/cordero.md)                       |
+| :sheep: **Cordero 2**      | [cordero](pentecostes/cordero_1.md)                     |
+| :crown: **Salida**         | [En torno a María](pentecostes/en_torno_a_maria.md)     |
 
 ---
 
@@ -22,7 +28,7 @@ Escucha los cantos de referencia antes del ensayo. Haz clic en el nombre de cada
 
 ---
 
-### 1. [Piedras Vivas](pentecostes/piedras_vivas.md)
+### [Piedras Vivas](pentecostes/piedras_vivas.md)
 
 _Somos piedras vivas templos del Señor ..._
 
@@ -30,7 +36,7 @@ _Somos piedras vivas templos del Señor ..._
 
 ---
 
-### 2. [Aspersión](pentecostes/esta_es_el_agua.md)
+### [Aspersión](pentecostes/esta_es_el_agua.md)
 
 _Esta es el agua viva que el creador nos dió_
 
@@ -38,7 +44,15 @@ _Esta es el agua viva que el creador nos dió_
 
 ---
 
-### 3. [María](pentecostes/maria.md)
+### [En torno a tu mesa](pentecostes/en_torno_a_tu_mesa.md)
+
+_En torno a tu mesa Señor te ofrecemos toda nuestra vida ..._
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/448dohNa00IeKqGkjgHQPo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
+### [María](pentecostes/maria.md)
 
 _Oh ven, pidamos con María que venga el Espíritu..._
 
@@ -46,13 +60,13 @@ _Oh ven, pidamos con María que venga el Espíritu..._
 
 ---
 
-### 4. [Por eso ven](pentecostes/por_eso_ven.md)
+### [Por eso ven](pentecostes/por_eso_ven.md)
 
 _Ven Espíritu de Dios Dulce soplo de amor..._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5W80Rpmoi6ioutE6T2xKdX?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-### 5. [En torno a María](pentecostes/en_torno_a_maria.md)
+### [En torno a María](pentecostes/en_torno_a_maria.md)
 
 _En torno a María y siempre en oración_
 

@@ -4,19 +4,33 @@
 
 ---
 
-```
-Somos piedras vivas,
-templo del Señor
-miembros de su cuerpo,
-Iglesia en construcción
-pueblo reunido,
-viña de elección,
-pueblo reconciliado,
-testigos de su amor
+```hl_lines="3-19"
+CAPO (definir)
 
+G               Bm
+Somos piedras vivas,
+C            D7
+templo del Señor
+G      Bm.       Em7
+miembros de su cuerpo,
+G C            A7     G7
+  Iglesia en construcción
+G         Bm
+pueblo reunido,
+C            D7
+viña de elección,
+G.   Bm.        Em7
+pueblo reconciliado,
+G.    C.    D     G
+  testigos de su amor
+
+  D7.             Em7
 Celebremos todos juntos,
-este día del Señor
+      D.  Em7 A7.  D
+este día del   Señor
+    G. C.        G  Bm
 el día de la alegría,
+    Em7.   A7.    D7
 y de la resurrección
 
 Renacidos del Bautismo,
