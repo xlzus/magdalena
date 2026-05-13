@@ -4,7 +4,7 @@
 
 Capo 5 (definir)
 
-```hl_lines="19-35 57-82"
+```hl_lines="1-13 34-46"
       Am         C         G
 Ven Espíritu de Dios sobre mí
    Dm            Am
