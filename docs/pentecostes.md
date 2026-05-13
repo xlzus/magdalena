@@ -15,9 +15,9 @@
 | :pray: **Oración**         | [María](pentecostes/maria.md)                           |
 | :fire: **Oración**         | [Por eso ven](pentecostes/por_eso_ven.md)               |
 | :latin_cross: **Santo**    | [santo](pentecostes/santo.md)                           |
-| :latin_cross: **Santo 2**  | [santo](pentecostes/santo_1.md)                         |
 | :sheep: **Cordero**        | [cordero](pentecostes/cordero.md)                       |
 | :sheep: **Cordero 2**      | [cordero](pentecostes/cordero_1.md)                     |
+| :ear_of_rice: **Comunión** | [Comunión](pentecostes/ven_espiritu_de_Dios.md)         |
 | :crown: **Salida**         | [En torno a María](pentecostes/en_torno_a_maria.md)     |
 
 ---
@@ -65,6 +65,16 @@ _Oh ven, pidamos con María que venga el Espíritu..._
 _Ven Espíritu de Dios Dulce soplo de amor..._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5W80Rpmoi6ioutE6T2xKdX?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
+### [Ven Espíritu de Dios (Kairos)](pentecostes/ven_espiritu_de_Dios.md)
+
+_Ven Espíritu de Dios sobre mí..._
+
+<iframe width="560" height="115" src="https://www.youtube.com/embed/-fumiSaeJnQ?si=7D4-WEe0X9B4HT8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### [En torno a María](pentecostes/en_torno_a_maria.md)
 

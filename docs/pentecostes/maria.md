@@ -60,8 +60,8 @@ Oh ven Espiritu de Dios
 Oh ven cubre nuestro ser
          Em       D6
 como cubriste a Maria
-        G        Em     Asus4 A
-con tu sombra cubrenos señor
+        G        Em     Asus4 A.     D
+con tu sombra cubrenos señor.     Espíritu
 ```
 
 ## Referencia
