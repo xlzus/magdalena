@@ -2,7 +2,7 @@
 
 # Ven Espíritu de Dios
 
-Capo 5 (definir)
+Capo 2
 
 ```hl_lines="1-13 34-46"
       Am         C         G

@@ -5,7 +5,7 @@
 ---
 
 ```hl_lines="3-19"
-CAPO (definir)
+CAPO 5
 
 G               Bm
 Somos piedras vivas,
@@ -13,7 +13,7 @@ C            D7
 templo del Señor
 G      Bm.       Em7
 miembros de su cuerpo,
-G C            A7     G7
+G C            A7     D7
   Iglesia en construcción
 G         Bm
 pueblo reunido,

@@ -24,24 +24,40 @@ por el agua del bautismo
 G      E7     Am
 la nueva creación.
 
+    F                 C
 El agua de nuestros ríos
+F.                C
 vida y salud nos dan,
+         E7         Am
 y las aguas del bautismo
+G.     E7.    Am
 vida eterna dan.
 
+ F.                   C
 Por el paso del mar rojo
+F                C
 Dios a Israel libró;
+        E7.        Am
 en el agua del bautismo
+G.       E7.       Am
 nace el Pueblo de dios.
 
+F                    C
 Jesús recibió el Espíritu
+F            C
 en el río Jordán.
+           E7            Am
 nuestro pueblo en el bautismo
+G.     E7.      Am
 nace a la libertad.
 
+F.                     C
 Del pecho abierto de Cristo
+F               C
 sangre y agua brotó
+        E7.         Am
 es el agua del bautismo
+G.      E7.     Am
 que da la salvación.
 
 ```

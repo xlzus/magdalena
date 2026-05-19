@@ -2,14 +2,19 @@
 
 # ALELUYA
 
-```bash
-D    A       Bm           F#m
-Aaleluya, Aleluuu, Aleluyaaa
-G    D            A
-Aaaleluya, Aleluuuuuu ya
+CAPO 1
 
-D    A       Bm           F#m
-Aaleluya, Aleluuu, Aleluyaaa
-G    D            A   D
-Aaaleluya, Aleluuuuuu ya
+```bash
+C       F.  G
+Aleluya Aleluya
+C. F. G
+Aleluya
+
+C       F.  G
+Aleluya Aleluya
+C. F. G
+Aleluya
+
+C. F. G
+Aleluya
 ```

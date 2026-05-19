@@ -6,19 +6,21 @@
 
 ## Esquema
 
-| Momento                    | Canto                                                   |
-| -------------------------- | ------------------------------------------------------- |
-| :musical_note: **Entrada** | [Piedras Vivas](pentecostes/piedras_vivas.md)           |
-| :droplet: **Aspersión**    | [Esta es el agua](pentecostes/esta_es_el_agua.md)       |
-| :raised_hands: **Aleluya** | [Aleluya](pentecostes/aleluya.md)                       |
-| :wine_glass: **Ofertorio** | [En torno a tu mesa](pentecostes/en_torno_a_tu_mesa.md) |
-| :pray: **Oración**         | [María](pentecostes/maria.md)                           |
-| :fire: **Oración**         | [Por eso ven](pentecostes/por_eso_ven.md)               |
-| :latin_cross: **Santo**    | [santo](pentecostes/santo.md)                           |
-| :sheep: **Cordero**        | [cordero](pentecostes/cordero.md)                       |
-| :sheep: **Cordero 2**      | [cordero](pentecostes/cordero_1.md)                     |
-| :ear_of_rice: **Comunión** | [Comunión](pentecostes/ven_espiritu_de_Dios.md)         |
-| :crown: **Salida**         | [En torno a María](pentecostes/en_torno_a_maria.md)     |
+| Momento                      | Canto                                                                       |
+| ---------------------------- | --------------------------------------------------------------------------- |
+| :musical_note: **Entrada**   | [Piedras Vivas](pentecostes/piedras_vivas.md)                               |
+| :droplet: **Aspersión**      | [Esta es el agua](pentecostes/esta_es_el_agua.md)                           |
+| :trumpet: **Señor y Gloria** | [Señor](pentecostes/esta_es_el_agua.md)                                     |
+| :raised_hands: **Aleluya**   | [Aleluya](pentecostes/aleluya.md)                                           |
+| :wine_glass: **Ofertorio**   | [Quiero estar en tu presencia](pentecostes/quiero_estar_en_tu_presencia.md) |
+| :pray: **Oración**           | [María](pentecostes/maria.md)                                               |
+| :fire: **Oración**           | [Por eso ven](pentecostes/por_eso_ven.md)                                   |
+| :latin_cross: **Santo**      | [santo](pentecostes/santo.md)                                               |
+| :sheep: **Cordero**          | [cordero](pentecostes/cordero.md)                                           |
+| :sheep: **Cordero 2**        | [cordero](pentecostes/cordero_1.md)                                         |
+| :ear_of_rice: **Comunión**   | [Comunión](pentecostes/ven_espiritu_de_Dios.md)                             |
+| :crown: **Salida**           | [En torno a María](pentecostes/en_torno_a_maria.md)                         |
+| :candle: **Exposicion**      | [En torno a María](pentecostes/roca_eterna.md)                              |
 
 ---
 
