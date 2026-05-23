@@ -3,7 +3,7 @@
 # Quiero estar, Señor, en tu presencia
 
 ```bash
-
+Intro: D. A.  G D A
 D                              A
 Quiero estar, Señor, en tu presencia,
           G                     D  A
@@ -22,14 +22,9 @@ TÓMALO, TRANSFÓRMALO, SEÑOR,
      G     A  D
 EN PURA OFRENDA.
 
-D                            A
-Con el pan, Señor, llevo mi vida,
-           G              D  A
-con el cáliz lava mis heridas.
-    D                        A
-A tu altar, Señor, llevo mi espiga,
-       G                   D
-a tu altar de amor, mi corazón.
+------------------------
+Guitarras: D. A.  G D
+-------------------------
 
          Bm                      A
 Quiero estar, Señor, junto a tu mesa

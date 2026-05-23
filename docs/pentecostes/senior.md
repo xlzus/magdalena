@@ -75,7 +75,8 @@ C#m
 Con el espíritu santo
                       Bm. E
 en la gloria de Dios pa--dre
-
+D  C#m.  Bm  A
+A - a  - a  men
 
 
 ```

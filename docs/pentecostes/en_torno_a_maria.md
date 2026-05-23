@@ -3,6 +3,9 @@
 # En torno a maría
 
 ```bash hl_lines="19-35 57-82"
+Intro: C.  Em.   F. Fm
+       C.   Em. F  G. C
+
 C            G
 En torno a María,
   F              C
