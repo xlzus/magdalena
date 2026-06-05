@@ -18,6 +18,7 @@ nav:
       - Cómo leer los acordes: taller/acordes.md
       - Cuidado de la voz: taller/voz.md
       - Cómo transportar un canto: taller/transportar.md
+      - Escalas musicales: taller/escalas.md
 #   - Historial:
 theme:
   name: material

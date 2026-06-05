@@ -12,6 +12,7 @@ Aquí encontrarás recursos prácticos para mejorar como músico y como corista.
 | [:guitar: Cómo leer los acordes](acordes.md)                          | Notación usada en las páginas de canciones y tipos de acordes más comunes |
 | [:microphone: Cuidado de la voz](voz.md)                              | Calentamiento, postura, hidratación y señales de alerta                   |
 | [:arrows_counterclockwise: Cómo transportar un canto](transportar.md) | Subir o bajar el tono de una canción paso a paso                          |
+| [:musical_keyboard: Escalas musicales](escalas.md)                    | Guía rápida y tabla completa de escalas mayores por nota raíz             |
 
 ---
 
