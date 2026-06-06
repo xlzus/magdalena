@@ -1,0 +1,35 @@
+/* Wider, denser layout for the harmonic-grade scales table. */
+.md-typeset table.tabla-grados {
+  width: 100%;
+  table-layout: fixed;
+  font-size: 0.74rem;
+}
+
+.md-typeset table.tabla-grados th,
+.md-typeset table.tabla-grados td {
+  padding: 0.28rem 0.18rem;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.md-typeset table.tabla-grados th:first-child,
+.md-typeset table.tabla-grados td:first-child {
+  width: 13%;
+  text-align: left;
+}
+
+@media screen and (max-width: 1000px) {
+  .md-typeset table.tabla-grados {
+    font-size: 0.68rem;
+  }
+
+  .md-typeset table.tabla-grados th,
+  .md-typeset table.tabla-grados td {
+    padding: 0.2rem 0.12rem;
+  }
+
+  .md-typeset table.tabla-grados th:first-child,
+  .md-typeset table.tabla-grados td:first-child {
+    width: 17%;
+  }
+}
