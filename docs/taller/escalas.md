@@ -8,20 +8,22 @@ Para empezar de forma práctica, esta guía usa la **escala mayor** (patrón: to
 
 ## Tabla completa de escalas mayores
 
-| Nota raíz | Notas de la escala mayor        |
-| --------- | ------------------------------- |
-| C         | C - D - E - F - G - A - B       |
-| C# / Db   | Db - Eb - F - Gb - Ab - Bb - C  |
-| D         | D - E - F# - G - A - B - C#     |
-| D# / Eb   | Eb - F - G - Ab - Bb - C - D    |
-| E         | E - F# - G# - A - B - C# - D#   |
-| F         | F - G - A - Bb - C - D - E      |
-| F# / Gb   | F# - G# - A# - B - C# - D# - E# |
-| G         | G - A - B - C - D - E - F#      |
-| G# / Ab   | Ab - Bb - C - Db - Eb - F - G   |
-| A         | A - B - C# - D - E - F# - G#    |
-| A# / Bb   | Bb - C - D - Eb - F - G - A     |
-| B         | B - C# - D# - E - F# - G# - A#  |
+| Nota raíz | I   | II  | III | IV  | V   | VI  | VII |
+| --------- | --- | --- | --- | --- | --- | --- | --- |
+| C         | C   | D   | E   | F   | G   | A   | B   |
+| C#/Db     | Db  | Eb  | F   | Gb  | Ab  | Bb  | C   |
+| D         | D   | E   | F#  | G   | A   | B   | C#  |
+| D#/Eb     | Eb  | F   | G   | Ab  | Bb  | C   | D   |
+| E         | E   | F#  | G#  | A   | B   | C#  | D#  |
+| F         | F   | G   | A   | Bb  | C   | D   | E   |
+| F#/Gb     | F#  | G#  | A#  | B   | C#  | D#  | E#  |
+| G         | G   | A   | B   | C   | D   | E   | F#  |
+| G#/Ab     | Ab  | Bb  | C   | Db  | Eb  | F   | G   |
+| A         | A   | B   | C#  | D   | E   | F#  | G#  |
+| A#/Bb     | Bb  | C   | D   | Eb  | F   | G   | A   |
+| B         | B   | C#  | D#  | E   | F#  | G#  | A#  |
+
+{: .tabla-grados}
 
 ---
 

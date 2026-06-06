@@ -52,3 +52,6 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.tabbed:
       alternate_style: true
+
+extra_css:
+  - assets/stylesheets/extra.css
