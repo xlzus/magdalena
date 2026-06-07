@@ -8,7 +8,7 @@
 
 | Momento                      | Canto                                                          |
 | ---------------------------- | -------------------------------------------------------------- |
-| :musical_note: **Entrada**   | [Piedras Vivas](dulce_corazon/magnificat.md)                   |
+| :musical_note: **Entrada**   | [Magnificat](dulce_corazon/magnificat.md)                      |
 | :trumpet: **Señor y Gloria** | [Señor](pentecostes/senior.md)                                 |
 | :raised_hands: **Aleluya**   | [Aleluya](pentecostes/aleluya.md)                              |
 | :wine_glass: **Ofertorio**   | [Junto a María te presentamos](dulce_corazon/junto_a_maria.md) |
