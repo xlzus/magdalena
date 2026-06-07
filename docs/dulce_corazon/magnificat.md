@@ -21,18 +21,30 @@ porque en mi ha hecho grandes maravillas
         Bm        F#m            Bm     A
 el que todo puede cuyo nombre es Santo.
 
+Bm.             F#m               Bm
 Su clemencia se derrama por los siglos
+        A.              A7.        D
 sobre aquellos que le temen y le aman,
+       B7                      Em
 desplegó el gran poder de su derecha
+      Bm.            F#m.           Bm. A
 dispersó a los que piensan que son algo.
 
+Bm               F#m              Bm
 Derribó a los poderosos de sus tronos
+      A             A7             D
 y ensalzó a los humildes y a los pobres;
+         B7                         Em
 los hambrientos se saciaron de sus bienes
+      Bm.         F#m           Bm.  A
 y alejó de sí­, vací­os, a los ricos.
 
+Bm.           F#m.              Bm
 Socorrió a Israel, su humilde siervo,
+     A          A7          D
 acordándose de su misericordia,
+     B7                           Em
 como habí­a prometido a nuestros padres,
-a Abraham y su descendencia para siempre.
+     Bm.          F#m           Bm.    A
+a Abraham y descendencia para siempre.
 ```
