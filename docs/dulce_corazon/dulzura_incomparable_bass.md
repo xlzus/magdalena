@@ -3,82 +3,82 @@
 CAPO 1
 
 ```bash
-A (Bb)
+Bb
 Dulzura incomparable
-C#m (D)
+Dm
 Tú siempre nos escuchas
-F#m (G)
+Gm
 Consuelo en las pruebas
-A7( Bb)
+Bb
 Que amas con ternura
-D (Eb)
+Eb
 Qué gozo tan inmenso
-C#m (D)
+Dm
 Divino privilegio
-G (Ab)
+Ab
 Tenerte a ti por Madre
-E  (F)            D E (Eb F)
+F               Eb  F
 La Reina de los Cielos
 
-       A (Bb)    D(Eb)     A(Bb)
+       Bb       Eb     Bb
 Madre nuestra, Madre Inmaculada
- F#m            D             A E
+ Gm            Eb             Bb F
 Tu amor nos protege como un manto
-      A           D            A
+      Bb           Eb            Bb
 Nos alegra, nos moldea y nos inspira
-   F#m           D          A         E
+    Gm           Eb          Bb         F
 Para creer y esperar, para amar de verdad
-          D     E         A
+          Eb     F         Bb
 Amar como Tú, vivir como Tú
 
-A (Bb)        
+Bb        
 Hoy somos tu familia
-C#m (D)
+Dm
 Buscando ser sencillas
-F#m (G)
+Gm
 Confiando en tu cuidado
-A7( Bb)
+Bb
 Andamos de tu mano
-D (Eb)
+Eb
 No hay título más grande
-C#m (D)
+Dm
 Que el que hoy portamos
-G (Ab)
+Ab
 Ser hijas de la Madre
-E  (F)            D E (Eb F)
+F              Eb  F 
 De Jesús Sacramentado
 
-A               D         A
+       Bb       Eb     Bb
 Madre nuestra, Madre Inmaculada
- F#m            D             A E
+ Gm            Eb             Bb F
 Tu amor nos protege como un manto
-      A           D            A
+      Bb           Eb            Bb
 Nos alegra, nos moldea y nos inspira
-   F#m           D          A         E
+    Gm           Eb          Bb         F
 Para creer y esperar, para amar de verdad
-          D     E         A
+          Eb     F         Bb
 Amar como Tú, vivir como Tú
 
-A              E         D
+Bb              F         Eb
 Para ser tus hijas de verdad
-A             D         E
+Bb           Eb         F
 Es preciso que seamos buenas
-C#m         F#m        D   A
+Dm         Gm         Eb   Bb
   Amar con obras y de corazón
-C#m      F#m           D   E
+Dm       Gm           Eb   F
   Amar mucho a Nuestro Señor
 
-A               D         A
+       Bb       Eb     Bb
 Madre nuestra, Madre Inmaculada
- F#m            D             A E
+ Gm            Eb             Bb F
 Tu amor nos protege como un manto
-      A           D            A
+      Bb           Eb            Bb
 Nos alegra, nos moldea y nos inspira
-   F#m           D          A         E
+    Gm           Eb          Bb         F
 Para creer y esperar, para amar de verdad
-          D     E         A
+          Eb     F         Bb
 Amar como Tú, vivir como Tú
-          D     E         A
+          Eb     F         Bb
 Amar como Tú, vivir como Tú
 
 ```
