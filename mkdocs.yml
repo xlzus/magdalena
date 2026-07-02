@@ -2,6 +2,7 @@ site_name: Ministerio Parroquial Santa María Magdalena
 nav:
   - esquema pentecostés >: pentecostes.md
   - esquema Dulce Corazon >: dulce_corazon.md
+  - esquema Sta Maria Magdalena >: magdalena.md
   - Pentecostés:
       - Piedras Vivas: pentecostes/piedras_vivas.md
       - Esta es el agua: pentecostes/esta_es_el_agua.md
